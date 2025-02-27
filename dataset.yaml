@@ -1,0 +1,4 @@
+train: C:/Users/csrir/Documents/droplet_tracking/train
+val: C:/Users/csrir/Documents/droplet_tracking/val
+nc: 1
+names: ['drop']
